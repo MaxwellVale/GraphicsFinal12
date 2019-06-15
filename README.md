@@ -5,7 +5,7 @@ Maxwell Vale
 ## MAXIBILLION
 
 ### Features to implement
-- [ ] mesh
+- [x] mesh
 - [ ] set
 - [ ] saveknobs
 - [ ] tween
